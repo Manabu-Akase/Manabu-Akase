@@ -6,8 +6,13 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact:  I can make a working quiz app before finishing my coffee ☕
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manabu-Akase
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manabu-Akase&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manabu-Akase&theme=onedark)]
+(https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={名前}&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
